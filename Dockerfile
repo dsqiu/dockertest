@@ -1,1 +1,2 @@
-FROM gcr.io/google_containers/pause-amd64:3.0
+FROM grc.io/google_containers/kube-controller-manager-amd64:v1.5.3
+
