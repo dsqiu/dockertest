@@ -1,1 +1,1 @@
-gcr.io/google_samples/gb-redisslave:v1
+kubernetes/redis-slave:v1
