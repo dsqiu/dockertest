@@ -1,1 +1,1 @@
-FORM gcr.io/google_containers/guestbook:v3
+from gcr.io/google_containers/guestbook:v3
